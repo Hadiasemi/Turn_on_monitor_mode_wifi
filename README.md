@@ -5,7 +5,8 @@ This script help you to put your wireless card to monitor mode
 # Download:
 
 ```bash 
-    curl -LO shorturl.at/ioEI8 
+    curl -Lo "monitor"  shorturl.at/ioEI8
+    chmod +x monitor
 ```
 
 # Usage:
